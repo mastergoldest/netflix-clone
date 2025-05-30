@@ -83,7 +83,7 @@ button a{
 }
 .backcolor{
     background-image:linear-gradient(to top left,rgb(110, 110, 133), rgb(73, 51, 51));
-    height: 150px;
+    height: 250px;
     border-radius: 5px;
     padding: 10px;
     margin: 0 0 5px 0;
